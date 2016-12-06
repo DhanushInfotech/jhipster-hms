@@ -100,7 +100,7 @@ To set up a CI environment, consult the [Setting up Continuous Integration][] pa
 [Using Docker and Docker-Compose]: https://jhipster.github.io/documentation-archive/v3.11.0/docker-compose
 [Using JHipster in production]: https://jhipster.github.io/documentation-archive/v3.11.0/production/
 [Running tests page]: https://jhipster.github.io/documentation-archive/v3.11.0/running-tests/
-[Setting up Continuous Integration]: https://jhipster.github.io/documentation-archive/v3.11.0/setting-up-ci/
+[Setting up Continuous Integration]: https://jhipster.github.io/setting-up-ci/
 
 [Gatling]: http://gatling.io/
 [Node.js]: https://nodejs.org/
